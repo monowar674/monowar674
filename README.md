@@ -1,4 +1,4 @@
-![Alt Text](https://raw.githubusercontent.com/username/repo/main/banner.png)
+![Alt Text]("C:\Users\monow\Downloads\aab6d8e2-88bf-4d56-a2ab-4ce46f2cdcfa.gif")
 
 
 # 💫 About Me:
