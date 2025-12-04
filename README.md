@@ -1,4 +1,3 @@
- <img src=" <img src="./images/my-banner.png" width="800" alt="My Developer Banner">">
 
 
 # 💫 About Me:
