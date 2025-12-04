@@ -1,3 +1,6 @@
+![Alt Text](https://raw.githubusercontent.com/username/repo/main/banner.png)
+
+
 # 💫 About Me:
 👋 Hi, I'm MD. Monowar Hossain<br><br>I'm a passionate Frontend Developer specializing in building clean, responsive, and user-friendly web interfaces. I love turning design concepts into smooth, functional, and pixel-perfect websites using modern technologies.<br><br>🚀 Skills & Technologies<br><br>HTML5, CSS3<br><br>Tailwind CSS, Bootstrap<br><br>JavaScript (ES6+)<br><br>React.js & Next.js<br><br>Responsive Web UI Design<br><br>Component-based Architecture<br><br>💡 What I Do<br><br>Convert Figma/PSD to Fully Responsive UI<br><br>Build Fast, SEO-Friendly Websites<br><br>Create Modern Frontend Web Applications<br><br>🌱 Currently learning<br><br>Advanced Next.js Features<br><br>API Integration & Optimization<br><br>📫 Connect with me<br><br>GitHub: github.com/monowar674<br><br>Portfolio: https://mylatest-portfolio.vercel.app/<br><br>Email: monowarhossain2155@gmail.com
 
