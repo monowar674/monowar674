@@ -7,10 +7,12 @@
  👋 Hi, I'm MD. Monowar Hossain <br><br>I'm a passionate Frontend Developer specializing in building clean, responsive, and user-friendly web interfaces. I love turning design concepts into smooth, functional, and pixel-perfect websites using modern technologies.<br><br>🚀 Skills & Technologies<br>HTML5, CSS3, Tailwind CSS, Bootstrap , JavaScript (ES6+), React.js & Next.js<br>Responsive Web UI Design , Component-based Architecture<br><br> <h2>💡 What I Do</h2><br><br>Convert Figma/PSD to Fully Responsive UI<br>Build Fast, SEO-Friendly Websites<br>Create Modern Frontend Web Applications<br> <h2>🌱 Currently learning</h2><br><br>Advanced Next.js Features<br><br>API Integration & Optimization<br><br>📫 Connect with me<br><br>GitHub: github.com/monowar674<br><br>Portfolio: https://mylatest-portfolio.vercel.app/<br><br>Email: monowarhossain2155@gmail.com
 
 
-## 🌐 Socials:
+<h1>🌐 Socials:</h1>
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:monowarhossain2155@gmail.com)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/monowar-hossain-283b65374/)
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:monowarhossain2155@gmail.com) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/mst.jara.9847)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/monowar-hossain-283b65374/) 
 
 # 💻 Tech Stack:
  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
