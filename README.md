@@ -3,7 +3,8 @@
 ![aab6d8e2-88bf-4d56-a2ab-4ce46f2cdcfa](https://github.com/user-attachments/assets/8b52874a-a325-443c-b1dc-36b06ab0afe9)
  <br>
   <h1 align="center">About Me:</h1>                                                                                                                   
-👋 Hi, I'm MD. Monowar Hossain <br><br>I'm a passionate Frontend Developer specializing in building clean, responsive, and user-friendly web interfaces. I love turning design concepts into smooth, functional, and pixel-perfect websites using modern technologies.<br><br>🚀 Skills & Technologies<br><br>HTML5, CSS3<br><br>Tailwind CSS, Bootstrap<br><br>JavaScript (ES6+)<br><br>React.js & Next.js<br><br>Responsive Web UI Design<br><br>Component-based Architecture<br><br>💡 What I Do<br><br>Convert Figma/PSD to Fully Responsive UI<br><br>Build Fast, SEO-Friendly Websites<br><br>Create Modern Frontend Web Applications<br><br>🌱 Currently learning<br><br>Advanced Next.js Features<br><br>API Integration & Optimization<br><br>📫 Connect with me<br><br>GitHub: github.com/monowar674<br><br>Portfolio: https://mylatest-portfolio.vercel.app/<br><br>Email: monowarhossain2155@gmail.com
+<div align="center">
+ 👋 Hi, I'm MD. Monowar Hossain <br><br>I'm a passionate Frontend Developer specializing in building clean, responsive, and user-friendly web interfaces. I love turning design concepts into smooth, functional, and pixel-perfect websites using modern technologies.<br><br>🚀 Skills & Technologies<br><br>HTML5, CSS3<br><br>Tailwind CSS, Bootstrap<br><br>JavaScript (ES6+)<br><br>React.js & Next.js<br><br>Responsive Web UI Design<br><br>Component-based Architecture<br><br>💡 What I Do<br><br>Convert Figma/PSD to Fully Responsive UI<br><br>Build Fast, SEO-Friendly Websites<br><br>Create Modern Frontend Web Applications<br><br>🌱 Currently learning<br><br>Advanced Next.js Features<br><br>API Integration & Optimization<br><br>📫 Connect with me<br><br>GitHub: github.com/monowar674<br><br>Portfolio: https://mylatest-portfolio.vercel.app/<br><br>Email: monowarhossain2155@gmail.com
 
 
 ## 🌐 Socials:
@@ -28,5 +29,6 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=monowar674&icon=0&color=0)](https://visitcount.itsvg.in)
+</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
