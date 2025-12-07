@@ -7,12 +7,13 @@
  👋 Hi, I'm MD. Monowar Hossain <br><br>I'm a passionate Frontend Developer specializing in building clean, responsive, and user-friendly web interfaces. I love turning design concepts into smooth, functional, and pixel-perfect websites using modern technologies.<br><br>🚀 Skills & Technologies<br>HTML5, CSS3, Tailwind CSS, Bootstrap , JavaScript (ES6+), React.js & Next.js<br>Responsive Web UI Design , Component-based Architecture<br><br> <h2>💡 What I Do</h2><br><br>Convert Figma/PSD to Fully Responsive UI<br>Build Fast, SEO-Friendly Websites<br>Create Modern Frontend Web Applications<br> <h2>🌱 Currently learning</h2><br><br>Advanced Next.js Features<br><br>API Integration & Optimization<br><br>📫 Connect with me<br><br>GitHub: github.com/monowar674<br><br>Portfolio: https://mylatest-portfolio.vercel.app/<br><br>Email: monowarhossain2155@gmail.com
 
 
-<h1>🌐 Socials:</h1>
+<h1>🌐 Socials: link</h1>
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:monowarhossain2155@gmail.com)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/mst.jara.9847)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/monowar-hossain-283b65374/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/md.monowar.090909)
 
 </div>
 
